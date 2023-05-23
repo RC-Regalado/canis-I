@@ -1,6 +1,6 @@
 # Canis I
-In the try of understand how my 3d printer work I'm building another grbl interpreter.
+In my attempt to understand how my 3D printer works, I am building another GRBL interpreter.
 
 ## The objetive?
-Well in my country use step motors is expensive, then I wanna understand how the arduino get comunincated with all the system.
-This for be able to create a new system using gearbox, rotary encoders and ordinary motors.
+Well, in my country, using step motors is expensive. Therefore, I want to comprehend how the Arduino communicates with the entire system. 
+This will allow me to create a new system using gearboxes, rotary encoders, and regular motors.

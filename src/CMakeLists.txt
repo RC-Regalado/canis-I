@@ -1,5 +1,5 @@
 set(SOURCES
-  main.cpp
+  interpreter/interpreter.cpp
   )
 
 add_library(grbl_lib ${SOURCES})
